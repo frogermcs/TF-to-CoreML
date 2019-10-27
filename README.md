@@ -11,4 +11,4 @@ For more details, check:
 
 - Blog post: [TensorFlow to CoreML conversion and model inspection](https://thinkmobile.dev/tensorflow-to-coreml-conversion-and-model-inspection/)
 - [Netron](https://github.com/lutzroeder/netron) - visualizer for deep learning and machine learning models.
-- Great blog post about converting MobileNet SSD to CoreML, by Matthijs Hollemans - (MobileNetV2 + SSDLite with Core ML)[https://machinethink.net/blog/mobilenet-ssdlite-coreml/]
+- Great blog post about converting MobileNet SSD to CoreML, by Matthijs Hollemans - [MobileNetV2 + SSDLite with Core ML](https://machinethink.net/blog/mobilenet-ssdlite-coreml/)
